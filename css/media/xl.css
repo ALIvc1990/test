@@ -37,3 +37,9 @@
   div.wrapper>div.menu-sm{
     display: none;
 }
+
+div.wrapper>div.slider{
+  width: 100%;
+  height: 200px;
+  background-color: violet;
+}
